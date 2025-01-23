@@ -39,8 +39,8 @@ forge fmt
 
 ## Get Support
 
-- [Telegram (Dev)](https://t.me/+CyIcLW2nfaFlNDc1)
-- [Discord](https://discordapp.com/invite/interlay)
+- [Telegram (Dev)](https://t.me/gobobxyz)
+- [Discord](https://discord.com/invite/gobob)
 - [Open an issue on the BOB main repository](https://github.com/bob-collective/bob/issues)
 
 
